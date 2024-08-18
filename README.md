@@ -59,16 +59,6 @@ Notable Projects:
 - Project 2
 - And more...
 
-### Teaching Assistant at The University of South Pacific (Feb 2023 – Present)
-Responsibilities:
-- Conducting laboratory sessions, providing feedback and support, and grading assessments.
-- Collaborating with course instructors and other TAs, contributing to course development.
-
-### Internship: IT Support at Vinod Patel Limited (Nov 2018 – Feb 2019)
-Responsibilities:
-- Troubleshoot hardware and software issues.
-- Assist in office administrative duties and set up computers for new employees.
-
 ## Hobbies
 - Understanding different cultures through work/learning engagements.
 - Socializing with people.
