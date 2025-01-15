@@ -5,7 +5,7 @@
 ## RaSha Innovators
 
 ## About Us
-Greetings! I'm RaSha, a passionate software developer with a focus on web and mobile applications. I excel in user interface design, testing, and debugging processes, ensuring the delivery of high-quality software solutions. My experience spans full-stack development, where I've demonstrated proficiency in both front-end and back-end technologies. I enjoy leveraging my technological proficiency across a diverse range of languages and frameworks, including Laravel Blade, Flutter, ASP.NET, VB.NET, HTML/CSS, C++, Python, Java, Android Studio, and MySQL, to develop and customize software solutions.
+Greetings! from RaSha, a passionate software developer with a focus on web and mobile applications. I excel in user interface design, testing, and debugging processes, ensuring the delivery of high-quality software solutions. My experience spans full-stack development, where I've demonstrated proficiency in both front-end and back-end technologies. I enjoy leveraging my technological proficiency across a diverse range of languages and frameworks, including Laravel Blade, Flutter, ASP.NET, VB.NET, HTML/CSS, C++, Python, Java, Android Studio, and MySQL, to develop and customize software solutions.
 
 ## Skills
 ### Programming Languages:
@@ -40,11 +40,7 @@ Greetings! I'm RaSha, a passionate software developer with a focus on web and mo
 - AZ-305 Designing Microsoft Azure Infrastructure Solutions
 - Penetration Testing and Ethical Hacking
 - Various LinkedIn Learning certifications in Java, Python, Full-Stack Web Development, Java EE 7 Development, RESTFUL API Development, JavaScript, Microsoft Power BI, and SQL Development.
-
-## Education
-- Bachelor of Science double major in Computing Science and Information Systems from The University of South Pacific (2020-2024), with a current GPA of 3.19.
-- Notable project: Developed a Request for Information System (RTI) using PHP, Laravel, Dart, and Flutter.
-
+  
 ## Experiences
 ### Full Stack Application Software Developer at RaSha (Jan 2023 – Present)
 Responsibilities:
